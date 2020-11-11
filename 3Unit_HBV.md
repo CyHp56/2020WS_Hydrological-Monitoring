@@ -18,3 +18,35 @@
 * How much is R?
 * What portion of the basin has Wm`greater than this value?
   * IfP
+* As P increases, so does R
+* As E increase, R decreases
+### Interflow and Runoff
+## Why modelling is reqired?
+* Forecast/Prediction
+* Instead of expensive and time consuming measurements
+* What happens if questions
+* summarize and test knowlege
+* Education
+* Hydrological phenomenon: randomness, three space dimensions, and time
+
+*Essentially, all models are wrong, but some are useful.* **(George Box)**
+
+* Parsimony
+  * Scientist cannot obtain a "correct" one by excessive elaboration
+* Worrying selectively
+  * Must be alert to what is importantly wrong
+## Model Structure
+* Empirical
+* Conceptual
+* Physical
+### 2. Model calibration
+* Calibration Criteria: 
+  * Coefficient of determination (R2)
+ * Challenges and difficulties: 
+   * I. Sometimes you can measure your parameters in the field, other times the parameters are just a conceptual representation
+   * III. Calibration criterias can lead to uncertanities, because they can't cover everything
+   * IV. Result can be reached by different means
+ * Coefficient of determination depends on rang: 
+
+
+
