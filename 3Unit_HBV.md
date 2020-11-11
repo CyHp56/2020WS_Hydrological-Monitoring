@@ -50,3 +50,30 @@
 * Calibrate/Train model with time series
 * Test model with independet time serise
 
+## Exercise
+* Write report
+* Input data
+  * Precipitation
+  * Temperature
+  * Potential evaporation
+* **Snow routine
+  * Input: Precipitation, Temperature
+  * Output: Snow pack, snow melt
+  * Accumulation of precipitation as snow if temperature --> PTT
+  * Simulated snow is multiplied by a correction factor
+  * Degree-day method for snowmelt
+  * Melt water retention until water ewuivalent of the snowpack
+  * When temperatures decreases below Ptt water refreezes again
+  * Calculations are carried out seperately
+* If there is snow there is less runoff. If there is precipitation there is more discharge (TT = Threshold Temperature)
+* Effect of P(cfmax) degree-day factor (mm/(°C day) 
+  * Both are influencing the fast response of the hydrograph
+* **Soil routine**
+* Input: Pot, evaporation, precipitation, snowmelt
+* Output: Act. evaporation, soil moisture, grondwater recharge
+* if Beta is high, decharge is low
+#### Response function
+* Input: Ground water recharge (pot. evaporation)
+* Output: Runoff to stream, "Groundwater level"
+* Threshold parameter (mm): 
+
