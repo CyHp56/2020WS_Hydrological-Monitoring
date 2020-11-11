@@ -71,9 +71,10 @@
 * **Soil routine**
 * Input: Pot, evaporation, precipitation, snowmelt
 * Output: Act. evaporation, soil moisture, grondwater recharge
-* if Beta is high, decharge is low
+* if Beta is high, discharge is low
 #### Response function
 * Input: Ground water recharge (pot. evaporation)
 * Output: Runoff to stream, "Groundwater level"
 * Threshold parameter (mm): 
-
+* When the threshold increases, the discharge decreases
+* Storage
