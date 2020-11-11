@@ -47,6 +47,6 @@
    * III. Calibration criterias can lead to uncertanities, because they can't cover everything
    * IV. Result can be reached by different means
  * Coefficient of determination depends on rang: 
-
-
+* Calibrate/Train model with time series
+* Test model with independet time serise
 
